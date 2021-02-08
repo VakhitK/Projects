@@ -1,0 +1,5 @@
+C:/Users/vahit.k/projects/QT/build-MY_QT-Test-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/vahit.k/projects/QT/build-MY_QT-Test-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/MY_QT-Test.dir
+C:/Users/vahit.k/projects/QT/build-MY_QT-Test-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/vahit.k/projects/QT/build-MY_QT-Test-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/MY_QT-Test_autogen_timestamp_deps.dir
+C:/Users/vahit.k/projects/QT/build-MY_QT-Test-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/MY_QT-Test_autogen.dir

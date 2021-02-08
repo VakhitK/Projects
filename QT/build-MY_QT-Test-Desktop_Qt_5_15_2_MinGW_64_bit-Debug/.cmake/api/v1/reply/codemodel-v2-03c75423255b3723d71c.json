@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MY_QT-Test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MY_QT-Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MY_QT-Test-Debug-1daa26258ef48133ef6a.json",
+					"name" : "MY_QT-Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MY_QT-Test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MY_QT-Test_autogen-Debug-1a9dfc43fae11c055c38.json",
+					"name" : "MY_QT-Test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MY_QT-Test_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MY_QT-Test_autogen_timestamp_deps-Debug-19489b2c2385f9f6524f.json",
+					"name" : "MY_QT-Test_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/vahit.k/projects/QT/build-MY_QT-Test-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/vahit.k/projects/QT/MY_QT-Test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

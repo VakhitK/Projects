@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vahit.k/projects/Leetcode/Easy/longest-common-prefix/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+
