@@ -1,0 +1,9 @@
+# ninja log v5
+356	2712	6383825231027736	CMakeFiles/MY_QT-ATM.dir/MY_QT-ATM_autogen/mocs_compilation.cpp.obj	abf3752f5d006c8e
+8	356	6383825208248445	MY_QT-ATM_autogen/timestamp	635157861cedd4a
+292	555	6383664951161666	CMakeFiles/MY_QT-ATM.dir/insert_cash.cpp.obj	ea5c7f1ed5a4f958
+782	2774	6383814841115028	CMakeFiles/MY_QT-ATM.dir/main.cpp.obj	a9768fd5a2823a2f
+408	2808	6383825232783054	CMakeFiles/MY_QT-ATM.dir/mainwindow.cpp.obj	84fd105e6f0babb9
+3	1078	6384429278373375	build.ninja	f140c6c814378d08
+2104	2538	6383826043995891	MY_QT-ATM.exe	159c66e5135975e5
+8	2103	6383826039667422	CMakeFiles/MY_QT-ATM.dir/insert_cash_window.cpp.obj	e0ed6ac23570362f

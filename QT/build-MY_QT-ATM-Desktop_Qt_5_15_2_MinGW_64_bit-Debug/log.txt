@@ -1,0 +1,14 @@
+ѕт мар 26 15:36:20 2021 ATM started
+ѕт мар 26 15:36:21 2021 Cash inserted
+ѕт мар 26 15:36:26 2021 Cash get menu started
+ѕт мар 26 15:36:34 2021 ATM turned off
+ѕт мар 26 15:39:59 2021 ATM started
+ѕт мар 26 15:40:02 2021 Cash inserted
+ѕт мар 26 15:40:08 2021 Cash get menu started
+ѕт мар 26 15:40:21 2021 ATM turned off
+ѕт мар 26 15:43:01 2021 ATM started
+ѕт мар 26 15:43:03 2021 Cash inserted
+ѕт мар 26 15:43:14 2021 Cash get menu started
+ѕт мар 26 15:43:23 2021 Cash get menu started
+ѕт мар 26 15:43:35 2021 Cash get menu started
+ѕт мар 26 15:43:37 2021 ATM turned off
